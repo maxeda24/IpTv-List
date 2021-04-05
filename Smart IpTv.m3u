@@ -1,8 +1,103 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://photocall.xyz/images/espn.png" group-title="DEPORTES", ESPN 2
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1920px-FX_International_logo.svg.png" group-title="CINE", FX
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=fx&f=.m3u8
 
-https://e10.espncdn.shop/ingestnb4s/espn_sur/f.m3u8
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE", SONY
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=sony&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png" group-title="CINE", TBS
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=tbs&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1024px-TLC_Logo.svg.png" group-title="CINE", TLC
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=tlc&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE", WARNER TV
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=warner&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1024px-AMC_logo_2019.svg.png" group-title="CINE", AMC
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=amc&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1024px-CinecanalLA.png" group-title="CINE", CINECANAL 
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=cinecanal&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1024px-Cinemax_%28Yellow%29.svg.png" group-title="CINE", CINEMAX
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=cinemax&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINE", CINELATINO
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=cinelatino&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/1024px-DPel%C3%ADcula_2021.svg.png" group-title="CINE", DE PELICULA
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=dpelicula&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://forounivers.com/gallery/image/1778-logo-de-pelicula-2021/?browse=1&lightbox=1" group-title="CINE", DE PELICULA+
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=dpeliculaplus&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1024px-2020_Canal_DHE_logo.svg.png" group-title="CINE", DHE
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=dhe&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1024px-FX_Movies_logo.svg.png" group-title="CINE", FX
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=fxm&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINE", HBO 2
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=hbo2&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1024px-Logohboplus2019.svg.png?1617662010012" group-title="CINE", HBO+
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=hboplus&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1024px-HBO_Family.svg.png" group-title="CINE", HBO FAMILY
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=hbofamily&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1024px-I.Sat_logo.svg.png" group-title="CINE", I SAT 
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=isat&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MC.png" group-title="CINE", MULTI CINEMA
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=mc&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1024px-Multipremier_logo.svg.png" group-title="CINE", MULTI PREMIER
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=mp&f=.m3u8
+ 
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Paramount_Pictures_2020.svg/1024px-Paramount_Pictures_2020.svg.png" group-title="CINE", PARAMOUNT
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=paramount&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1024px-SYFY.svg.png" group-title="CINE", SYFY
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=syfy-1&f=.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://photocall.xyz/images/espn.png" group-title="DEPORTES", ESPN 
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=espn1mx&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png" group-title="DEPORTES", ESPN 2 
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=espn2mx&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Red Bull TV
 
@@ -13,6 +108,45 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png" group-title="INTERNACIONAL", DISCOVERY ID
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=id&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1024px-2018_Animal_Planet_logo.svg.png" group-title="INTERNACIONAL", ANIMAL PLANET
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=animalp&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1024px-2019_Discovery_logo.svg.png" group-title="INTERNACIONAL", DISCOVERY
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=discovery&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1024px-Science_Channel_logo.svg.png" group-title="INTERNACIONAL", DISCOVERY SCIENCE
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=dciencia&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="INTERNACIONAL", DISCOVERY TURBO
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=dturbo&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1024px-H%26h_Logo.svg.png" group-title="INTERNACIONAL", DISCOVERY H&H
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=hh&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="INTERNACIONAL", NATIONAL GEOGRAPHIC
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=natgeo&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1024px-National_Geographic_Wild_logo.svg.png" group-title="INTERNACIONAL", NATIONAL GEOGRAPHIC WILD
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=natgeowild&f=.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/nasa.png" group-title="INTERNACIONAL", NASA ISS
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
@@ -21,6 +155,22 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/nasa.png" group-title="INTERNACIONAL", NASA PUBLIC
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", DW
 
