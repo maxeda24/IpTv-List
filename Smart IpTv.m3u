@@ -88,7 +88,39 @@ http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=126&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png" group-title="CINE", SPACE
 http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=129&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:-1, tvg-logo="
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png" group-title="CINE", STAR CHANNEL
+http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=46&p=3&k=srregio&f=.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1920px-Star_Action_2020.svg.png" group-title="CINE", STAR ACTION
+http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=336&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1920px-Star_Life_2021.svg.png" group-title="CINE", STAR LIFE
+http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=77&p=3&k=srregio&f=.m3u8  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="VARIOS", COMEDY CENTRAL
@@ -113,9 +145,10 @@ http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=70&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=84&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="VARIOS", IMAGEN TV
-http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=2298&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=2298&p=3&k=srregio&f=.m3u8
 
-
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="VARIOS", DISTRITO COMDEDIA
+http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=78&p=3&k=srregio&f=.m3u8  
 
 
 
