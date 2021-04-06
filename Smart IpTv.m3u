@@ -36,7 +36,7 @@ http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=dpeliculaplus&f=.m3u8
 #EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1024px-2020_Canal_DHE_logo.svg.png" group-title="CINE", DHE
 http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=dhe&f=.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1024px-FX_Movies_logo.svg.png" group-title="CINE", FX
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1024px-FX_Movies_logo.svg.png" group-title="CINE", FXM
 http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=fxm&f=.m3u8
 
 #EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINE", HBO 2
@@ -69,9 +69,9 @@ http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=axn&f=.m3u8
 #EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="CINE", UNIVERSAL
 http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=universal&f=.m3u8
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1920px-FX_Movies_logo.svg.png" group-title="CINE", FXM
-http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=fxm&f=.m3u8
 
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1920px-HBO_logo.svg.png" group-title="CINE", HBO
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=hboes&f=.m3u8
 
 
 
@@ -99,6 +99,26 @@ http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=espn1mx&f=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png" group-title="DEPORTES", ESPN 2 
 http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=espn2mx&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES", ESPN 3
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=espn3mx&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1920px-2015_Fox_Sports_1_logo.svg.png" group-title="DEPORTES", FOX SPORTS
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=foxsport1mx&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1920px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES", FOX SPORTS 2
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=foxsport2mx&f=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1920px-Fox_sports_3_logo.svg.png" group-title="DEPORTES", FOX SPORTS 3
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=foxsport3mx&f=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=tudnmx&f=.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Red Bull TV
 
