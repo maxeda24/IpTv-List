@@ -63,6 +63,14 @@ http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=paramount&f=.m3u8
 #EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1024px-SYFY.svg.png" group-title="CINE", SYFY
 http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=syfy-1&f=.m3u8
 
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1920px-AXN_logo_%282015%29.svg.png" group-title="CINE", AXN
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=axn&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="CINE", UNIVERSAL
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=universal&f=.m3u8
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1920px-FX_Movies_logo.svg.png" group-title="CINE", FXM
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=fxm&f=.m3u8
 
 
 
@@ -73,15 +81,8 @@ http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=syfy-1&f=.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="VARIOS", COMEDY CENTRAL
+http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=comedy&f=.m3u8
 
 
 
