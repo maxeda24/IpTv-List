@@ -84,6 +84,28 @@ http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=hboes&f=.m3u8
 #EXTINF:-1 tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png" group-title="VARIOS", COMEDY CENTRAL
 http://ipeteve.com/php/REGIO_PLAY_999966666/regio22.php?c=comedy&f=.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/800px-Logo_Azteca_7_2011.svg.png" group-title="VARIOS", AZTECA 7
+http://ipeteve.com/php/REGIO_PLAY_999966666/azteca7.php?f=.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Azteca_UNO_logo_2020.webp" group-title="VARIOS", AZTECA UNO
+http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=7&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1024px-Las_Estrellas.svg.png" group-title="VARIOS", LAS ESTRELLAS
+http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=17&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" group-title="VARIOS", CANAL 5
+http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=20&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/1920px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="VARIOS", CORAZON AZ
+http://ipeteve.com/php/REGIO_PLAY_999966666/tp.php?c=70&p=3&k=srregio&f=.m3u8  
+
+
+
+
+
+
+
+
 
 
 
